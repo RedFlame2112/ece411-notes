@@ -1,0 +1,9 @@
+[book]
+authors = ["redflame2112"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ece411 exam 1"
+
+[preprocessor.katex]
+after = ["links"]
