@@ -27,5 +27,10 @@
 
 
 # Memory Hierarchy 
-
 - [Memory Hierarchy - Intro](mem_hierarchy/README.md)
+
+# Superscalar and Dynamic Scheduling
+- [Superscalar - Deep Dive](superscalar/README.md)
+
+
+# Out of Order Processing 
